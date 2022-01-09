@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <!--Lenguaje y codigo del pais-->
+  <head>
+    
+  </head>
+    <table>
+      <tr>
+        <td><a href="aequip.html">Añadir equipo<a/></td>
+	<td><a href="ajug.html">Añadir jugador<a/></td>
+        <td><a href="asigequip.html">Asignar equipos<a/></td>
+       
+      </tr>
+    </table>
+  <body>
+  
+	<iframe 
+	width= "1500"
+	height= "1000"
+	src="https://docs.google.com/forms/d/1RngjnXUfgQ6WbRJ3Pdqgg1Tw2Gc1MjCGPeEM9NnhRU0/viewform"
+	></iframe>
+
+  </body>
+  </footer>
+</html>
